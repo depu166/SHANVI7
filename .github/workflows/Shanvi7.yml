@@ -1,4 +1,4 @@
-name: Shanvi7RDP
+amazonRDP
 
 on: workflow_dispatch
 
